@@ -20,6 +20,6 @@ public class ReverseSTR{
 
     public static void main(String args[]){
         String str = "jai shree parshuram";
-        System.out.print(ReverseString(str));
+        System.out.print(ReverseString("the answer "+str));
     }
 }
